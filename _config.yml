@@ -4,8 +4,8 @@ pygments: true
 baseurl: /flex_resume
 
 # theme: jekyll-theme-flex
-# url: https://gaa101.github.io/
-# title: Gio Aprigliano's Resume
-# description: This is my Resume!
+url: https://gaa101.github.io/
+title: Gio Aprigliano's Resume
+description: This is my Resume!
 # instagram: "http://instagram.com/username"
 # author: Gio Aprigliano
